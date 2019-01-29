@@ -1,0 +1,15 @@
+{
+  "name": "protojsrpc",
+  "version": "1.0.0",
+  "description": "websocket browser rpc client ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "protobufjs": "^6.8.8"
+  }
+}
