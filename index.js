@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 Huang youChuan <seiyp70@gmail.com> */
+/* Copyright (c) 2019 Huang Youchuan <seiyap70@gmail.com> */
 const ProtoBuf = require("protobufjs");
 const assert = require("assert");
 function mine(fn) {
